@@ -2,12 +2,12 @@
 Create android application using www.themoviedb.org API. Use only "Upcoming Movies" Feature api. For this sample app used external libs as a dependencies.
 
 # features
-Android standards UI
-Drag to refresh.
-Images slider for more pictures.
-new toolbar slide effect.
-Fast Networking lib i.e. Retrofit
-Fast Image Loading using : Picasso
+Android standards UI.\n
+Drag to refresh.\n
+Images slider for more pictures.\n
+new toolbar slide effect.\n
+Fast Networking lib i.e. Retrofit \n
+Fast Image Loading using : Picasso \n
 
 # dependencies :
 
