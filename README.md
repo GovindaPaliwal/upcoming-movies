@@ -9,6 +9,9 @@ Create android application using www.themoviedb.org API. Use only "Upcoming Movi
 * Fast Networking lib i.e. Retrofit
 * Fast Image Loading using : Picasso 
 
+Api version support : >= 9
+
+* Note: Add Your API KEY in ApiService.java file
 # dependencies :
 
 dependencies {
