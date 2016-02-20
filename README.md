@@ -1,6 +1,12 @@
 # upcoming-movies
 Create android application using www.themoviedb.org API. Use only "Upcoming Movies" Feature api. For this sample app used external libs as a dependencies.
 
+#Upcoming movie list.
+![img](home.png)
+
+#Detail page.
+![img](detail.png)
+
 # features
 * Android standards UI.
 * Drag to refresh.
